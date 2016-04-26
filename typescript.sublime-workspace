@@ -1,0 +1,2536 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"o",
+				"DOCTYPE  (doctype)"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"adjust",
+				"adjustMax"
+			],
+			[
+				"adju",
+				"adjustMin"
+			],
+			[
+				"adj",
+				"adjustMax"
+			],
+			[
+				"adjus",
+				"adjustMax"
+			],
+			[
+				"Adjust",
+				"adjustMin"
+			],
+			[
+				"log",
+				"log10  (variable)"
+			],
+			[
+				"Adj",
+				"adjustMax"
+			],
+			[
+				"round",
+				"roundNumber  (function)"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padding-",
+				"padding-right:   (property)"
+			],
+			[
+				"_",
+				"_fillColor"
+			],
+			[
+				"background-",
+				"background-color:   (property)"
+			],
+			[
+				"$s",
+				"$scope	AngularJS"
+			],
+			[
+				"secu",
+				"securityIds"
+			],
+			[
+				"webp",
+				"webpackcfg"
+			],
+			[
+				"$loca",
+				"$location	AngularJS"
+			],
+			[
+				"ngc",
+				"ng-click	AngularJS"
+			],
+			[
+				"nc",
+				"ng-click	AngularJS"
+			],
+			[
+				"stoc",
+				"stockList"
+			],
+			[
+				"$lo",
+				"$location	AngularJS"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"mod",
+				"angular.module"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"d",
+				"dependency  (element)"
+			],
+			[
+				"xi",
+				"xsi"
+			],
+			[
+				"xml",
+				"xmlns"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"dir",
+				"directivelong	Angular.js"
+			],
+			[
+				"setTime",
+				"setTimeout  (function)"
+			],
+			[
+				"svg",
+				"svg_nodes"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"in",
+				"innerRadius"
+			],
+			[
+				"x",
+				"xscale"
+			],
+			[
+				"backg",
+				"background-image:   (property)"
+			],
+			[
+				"Pri",
+				"PriceNotReady"
+			],
+			[
+				"Ac",
+				"Active"
+			],
+			[
+				"Issue",
+				"IssueFlags"
+			],
+			[
+				"Price",
+				"PriceNotReady"
+			],
+			[
+				"star",
+				"startdateindex"
+			],
+			[
+				"aj",
+				"adjustValueRange"
+			],
+			[
+				"valu",
+				"valueRange"
+			],
+			[
+				"apache",
+				"apachectl"
+			],
+			[
+				"rpm",
+				"rpms"
+			],
+			[
+				"_d",
+				"_d1"
+			],
+			[
+				"ojb",
+				"object"
+			],
+			[
+				"date",
+				"dateObj"
+			],
+			[
+				"orig",
+				"originalArray"
+			],
+			[
+				"arr",
+				"arrayID"
+			],
+			[
+				"exe",
+				"exectArrayTicker"
+			],
+			[
+				"Meme",
+				"MemcacheManager"
+			],
+			[
+				"cache",
+				"cacheStat"
+			],
+			[
+				"get",
+				"getJSON  (function)"
+			],
+			[
+				"sma",
+				"smaCache"
+			],
+			[
+				"find",
+				"findCache"
+			],
+			[
+				"prod",
+				"productCode"
+			],
+			[
+				"t",
+				"tools  (variable)"
+			],
+			[
+				"defa",
+				"defaultValue"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"c",
+				"chartname"
+			],
+			[
+				"data",
+				"dataStr"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"show",
+				"showDividend"
+			],
+			[
+				"Div",
+				"dividendShow"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"chart",
+				"chartns"
+			],
+			[
+				"if",
+				"ifmt"
+			],
+			[
+				"stat",
+				"startDay"
+			],
+			[
+				"start",
+				"startDay"
+			],
+			[
+				"for",
+				"formatTSData  (function)"
+			],
+			[
+				"forma",
+				"formatter"
+			],
+			[
+				"form",
+				"formatRTQData  (function)"
+			],
+			[
+				"sec",
+				"secIds"
+			],
+			[
+				"tem",
+				"tempPointer"
+			],
+			[
+				"point",
+				"pointers"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"back",
+				"background-color:   (property)"
+			],
+			[
+				"min",
+				"mins"
+			],
+			[
+				"getDa",
+				"getDay"
+			],
+			[
+				"getMi",
+				"getMilliseconds"
+			],
+			[
+				"getmi",
+				"getMilliseconds"
+			],
+			[
+				"pu",
+				"Publisher"
+			],
+			[
+				"to",
+				"Tools"
+			],
+			[
+				"startD",
+				"startDayInt  (variable)"
+			],
+			[
+				"end",
+				"endIndex"
+			],
+			[
+				"pc",
+				"pcData"
+			],
+			[
+				"req",
+				"requestItem"
+			],
+			[
+				"reque",
+				"requestItem"
+			],
+			[
+				"on",
+				"onWork  (variable)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"new",
+				"newCount"
+			],
+			[
+				"Chart",
+				"ChartRequestQueue"
+			],
+			[
+				"sel",
+				"selectionEndIndex"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"sli",
+				"sliderEndDay"
+			],
+			[
+				"sliders",
+				"sliderStartDay"
+			],
+			[
+				"startd",
+				"startDt"
+			],
+			[
+				"inpu",
+				"inputEnd"
+			],
+			[
+				"tota",
+				"totalEnd  (variable)"
+			],
+			[
+				"string",
+				"stringToDate"
+			],
+			[
+				"str",
+				"stringToDate"
+			],
+			[
+				"sl",
+				"sliderStartDay"
+			],
+			[
+				"select",
+				"selectionStartIndex"
+			],
+			[
+				"selec",
+				"selectionEndIndex"
+			],
+			[
+				"endD",
+				"endDay"
+			],
+			[
+				"endd",
+				"endDt"
+			],
+			[
+				"Ms",
+				"MSTechChart"
+			],
+			[
+				"max",
+				"maxData"
+			],
+			[
+				"selectio",
+				"selectionStartIndex"
+			],
+			[
+				"TOT",
+				"totalStart"
+			],
+			[
+				"se",
+				"selectionStartIndex"
+			],
+			[
+				"tot",
+				"totalEnd"
+			],
+			[
+				"set",
+				"setZoomStyle"
+			],
+			[
+				"sd",
+				"sd"
+			],
+			[
+				"arra",
+				"arrayName"
+			],
+			[
+				"array",
+				"arraySType"
+			],
+			[
+				"total",
+				"totalStart"
+			],
+			[
+				"extend",
+				"extendSetting"
+			],
+			[
+				"even",
+				"eventBucket"
+			],
+			[
+				"eve",
+				"eventEnum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "greeter.ts",
+			"settings":
+			{
+				"buffer_size": 508,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "greeter.html",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n",
+			"settings":
+			{
+				"buffer_size": 14413,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"file": "greeter.js",
+			"settings":
+			{
+				"buffer_size": 645,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 85.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sst",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"ssj",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"ssx",
+				"Set Syntax: XML"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"diff",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"rev",
+				"File: Revert"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"jsfo",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ssjo",
+				"Set Syntax: JSON"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"sss",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"in",
+				"Auto indent"
+			],
+			[
+				"for",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ssc",
+				"Set Syntax: CSS"
+			],
+			[
+				"lg",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"sssc",
+				"Set Syntax: Scala"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"ss",
+				"Set Syntax: Groovy"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"re",
+				"File: Revert"
+			],
+			[
+				"snippet:set",
+				"Snippet: setTimeout"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Snippet: ",
+				"Snippet: function as a property of an object"
+			],
+			[
+				"ssma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"snippet:for",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"snt",
+				"Snippet: setTimeout"
+			],
+			[
+				"Snippet: se",
+				"Snippet: setTimeout"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssm",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssr",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ssxm",
+				"Set Syntax: XML"
+			],
+			[
+				"dif",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"git",
+				"Git: Change Branch"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"idff",
+				"Git: Diff All Files"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"reve",
+				"File: Revert"
+			],
+			[
+				"page",
+				"Package Control: Install Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"difft",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"refre",
+				"Side Bar: Refresh"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"di",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"view",
+				"View: Toggle Tabs"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git c",
+				"Git: Custom Command"
+			],
+			[
+				"git comm",
+				"Git: Custom Command"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"git ",
+				"Git: Graph All"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"sub",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"t",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"linte",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"subli",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"sulime",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pagec",
+				"Package Control: Install Package"
+			],
+			[
+				"pag",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"fold",
+				"Project: Add Folder"
+			],
+			[
+				"svn",
+				"SVN: Custom Command…"
+			],
+			[
+				"pageck",
+				"Package Control: Install Package"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 458.0
+	},
+	"console":
+	{
+		"height": 384.0,
+		"history":
+		[
+			"sublime().current_View()",
+			"sublime.active_window().active_view().run_command(\"revert\")",
+			"Git status",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/MyWork/typescript"
+	],
+	"file_history":
+	[
+		"/D/MyWork/typescript/typescript.sublime-project",
+		"/C/Users/achen2/AppData/Roaming/Sublime Text 3/Packages/T3S/Typescript.sublime-settings",
+		"/C/Users/achen2/AppData/Roaming/Sublime Text 3/Packages/sublime-typescript/typescript.sublime-settings",
+		"/C/Users/achen2/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/MyWork/typescript/greeter.tsc",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/directives/sigQuote.js",
+		"/D/MyWork/Git/AS/sal-quicktake/env-configure/setup-apache.sh",
+		"/D/MyWork/Git/AS/sal-quicktake/portal/sigPortal.js",
+		"/D/MyWork/Git/AS/followthesun/gruntfile.js",
+		"/D/MyWork/Git/AS/sal-quicktake/gruntfile.js",
+		"/D/MyWork/Git/AS/sal-quicktake/dist/proxy.html",
+		"/D/MyWork/Git/AS/sal-quicktake/dist/portal.js",
+		"/D/MyWork/Git/AS/sal-quicktake/app/proxy.html",
+		"/C/Users/achen2/Desktop/triple.html",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/entry.js",
+		"/D/MyWork/Git/AS/sal-quicktake/dist/app.js",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/grunt-contrib-connect/node_modules/open/vendor/xdg-open",
+		"/D/MyWork/Git/AS/signature-portal/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/x-doc-messaging.json",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/xdomain/dist/xdomain.js",
+		"/D/MyWork/Git/AS/sal-service/build.sbt",
+		"/D/MyWork/Git/AS/sal-quicktake/.bowerrc",
+		"/C/Users/achen2/.npmrc",
+		"/C/Users/achen2/.cnpmrc",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/css-loader/node_modules/csso/docs/index/index.en.md",
+		"/D/MyWork/Git/AS/sal-quicktake/app/index.html",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/image-webpack-loader/node_modules/imagemin/node_modules/vinyl/lib/isNull.js",
+		"/D/MyWork/Git/AS/sal-service/app/service/dataapi/SecurityInfoServiceImpl.java",
+		"/D/MyWork/Git/AS/sal-service/app/controllers/filter/SecurityTokenFilter.java",
+		"/D/MyWork/Git/AS/sal-service/app/models/dataapi/SecurityInfo.java",
+		"/D/MyWork/Git/AS/sal-quicktake/test/spec/factories/securityIdsTest.js",
+		"/D/MyWork/Git/AS/sal-quicktake/dist/securityPortal.html",
+		"/D/MyWork/Git/AS/sal-service/app/service/dataapi/SecurityInfoService.java",
+		"/D/MyWork/Git/AS/sal-service/app/utils/authentication/SecurityTokenParser.java",
+		"/C/Users/achen2/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/d3/d3.js",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/modernizr/feature-detects/quota-management-api.js",
+		"/D/MyWork/Git/AS/sal-service/conf/qa.conf",
+		"/D/MyWork/Git/AS/sal-quicktake/env-configure/conf/sal-service-qa-dallas.conf",
+		"/D/MyWork/Git/AS/sal-quicktake/env-configure/conf/sal-service-stg-b37.conf",
+		"/D/MyWork/Git/AS/sal-quicktake/env-configure/conf/sal-quicktake-gzip-rewrite.conf",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/modernizr/feature-detects/battery-api.js",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/protractor/node_modules/selenium-webdriver/lib/test/data/locators_tests/boolean_attribute_selected.html",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/jquery.sparkline/src/base.js",
+		"/D/MyWork/Git/AS/sal-quicktake/env-configure/conf/sal-service-stg-dallas.conf",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/app.js",
+		"/D/MyWork/Git/AS/sal-quicktake/sonar-project.properties",
+		"/D/MyWork/Git/AS/sal-quicktake/webpack.config.js",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/directives/sigNews.js",
+		"/D/MyWork/Git/AS/sal-service/post-install.sh",
+		"/D/MyWork/Git/AS/sal-service/startup.sh",
+		"/D/MyWork/Git/AS/sal-service/create_rpm.sh",
+		"/D/MyWork/Git/AS/sal-quicktake/app/styles/sass/_core.scss",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/angular/angular.js",
+		"/D/MyWork/Git/AS/sal-service/conf/routes",
+		"/D/MyWork/Git/AS/sal-service/app/controllers/GMBController.java",
+		"/D/MyWork/Git/AS/sal-service/app/controllers/SALBaseController.java",
+		"/D/MyWork/Git/AS/sal-quicktake/package.json",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/jquery/dist/jquery.js",
+		"/D/MyWork/Git/AS/followthesun/solarTerminator-orig.html",
+		"/D/MyWork/Git/AS/sal-service/app/service/base/SALBaseService.java",
+		"/D/MyWork/Git/AS/charts/chartweb/src/main/webapp/market.json",
+		"/D/MyWork/Git/AS/sal-components-gmbmap/bower_components/jquery.cookie/jquery.cookie.js",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/protractor/node_modules/selenium-webdriver/test/stale_element_test.js",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/grunt-strip-code/test/expected/start_end_options.js",
+		"/D/MyWork/Git/AS/sal-quicktake/env-configure/conf/sal-service-qa-b37.conf",
+		"/D/MyWork/Git/AS/sal-quicktake/env-configure/conf/sal-service-dev-b37.conf",
+		"/C/Users/achen2/Desktop/scale_log.js",
+		"/D/MyWork/Git/AS/sal-service/app/controllers/ApplicationController.java",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/directives/sigBand.js",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/angular/angular-csp.css",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/angular/angular.min.js",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/angular-animate/angular-animate.js",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/angular-mocks/angular-mocks.js",
+		"/D/MyWork/Git/AS/sal-components-gmbmap/test/karma.conf.js",
+		"/D/MyWork/Git/AS/sal-components-gmbmap/build/morningstar.components.sigGMBMap.js",
+		"/D/MyWork/Git/AS/sal-components-gmbmap/node_modules/style-loader/package.json",
+		"/D/MyWork/Git/AS/sal-components-gmbmap/bower.json",
+		"/D/MyWork/Git/AS/sal-service/conf/application.conf",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/templates/sigNews.html",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/directives/sigValuationPerformance.js",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/directives/miniQuoteChart.js",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/directives/moatHistoryChart.js",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/libs/miniQuoteChart.js",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/libs/moatHistoryChart.js",
+		"/D/MyWork/Git/AS/sal-quicktake/test/spec/directives/sigNewsTest.js",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/libs/valuationCapsule.js",
+		"/D/MyWork/Git/DO/awd/setenv.bat",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/directives/arrowTooltip.js",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/foundation/css/foundation.css",
+		"/D/MyWork/Git/AS/sal-components-gmbmap/.git/config",
+		"/D/MyWork/Git/AS/sal-quicktake/bower_components/modernizr/test/caniuse_files/svg-img.svg",
+		"/D/MyWork/Git/AS/sal-service/app/controllers/DataController.java",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/templates/moatHistoryChart.html",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/webpack/lib/MemoryOutputFileSystem.js",
+		"/D/MyWork/Git/AS/sal-quicktake/portal/scripts/main.js",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/grunt-npm-install/node_modules/npm/node_modules/uid-number/get-uid-gid.js",
+		"/C/Program Files/nodejs/npm.cmd",
+		"/D/MyWork/Git/AS/sal-service/conf/devcloud.conf",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/karma/node_modules/http-proxy/lib/node-http-proxy/routing-proxy.js",
+		"/C/Users/achen2/AppData/Local/Google/Chrome/User Data/Default/History",
+		"/C/Users/achen2/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/achen2/AppData/Local/Microsoft/MSBuild/v4.0/Microsoft.Cpp.Win32.user.props",
+		"/C/Users/achen2/AppData/Local/Microsoft/MSBuild/v4.0/Microsoft.Cpp.Win32.user.props_1.BAK",
+		"/D/MyWork/Git/DO/awd/install_lib.bat",
+		"/D/MyWork/Git/DO/awd/backup_file.bat",
+		"/D/MyWork/Git/DO/awd/setenv.ps1",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/vendors/valhis.js",
+		"/D/MyWork/Git/AS/sal-quicktake/test/data/miniQuoteData.json",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/css-loader/mergeImport.js",
+		"/C/Users/achen2/Desktop/apimanager.js",
+		"/D/MyWork/Git/AS/sal-quicktake/env-configure/README.md",
+		"/C/Users/achen2/Desktop/clear.bat",
+		"/D/MyWork/Git/AS/signature-portal/node_modules/grunt-autoprefixer/node_modules/autoprefixer/lib/value.js",
+		"/D/MyWork/Git/AS/sal-quicktake/env-configure/conf/sal-service-uat-dallas.conf",
+		"/D/MyWork/Git/AS/sal-quicktake/env-configure/conf/sal-service-uat-b37.conf",
+		"/D/MyWork/Git/AS/charts/chartweb/pom.xml",
+		"/D/MyWork/Git/AS/sal-service-mockdata-setup/pom.xml",
+		"/C/Users/achen2/.m2/repository/org/mock-server/mockserver-netty/3.9.1/mockserver-netty-3.9.1.pom.lastUpdated",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/protractor/node_modules/minijasminenode/spec/failure_egs.js",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/file-loader/node_modules/loader-utils/node_modules/json5/test/parse-cases/todo/unicode-escaped-unquoted-key.json5",
+		"/D/MyWork/Git/AS/sal-quicktake/app/countryIndex.csv",
+		"/C/Users/achen2/Desktop/countryIndex.csv",
+		"/D/MyWork/Git/AS/sal-quicktake/app/EXPD.csv",
+		"/D/MyWork/Git/AS/sal-quicktake/node_modules/jasmine-core/lib/jasmine-core/jasmine.js",
+		"/C/Users/achen2/.gitconfig",
+		"/D/MyWork/Git/AS/sal-quicktake/app/stock.json",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/factories/worldMapService.js",
+		"/D/MyWork/Git/AS/sal-quicktake/app/scripts/templates/sigQuote.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\app",
+			"D:\\MyWork\\Git\\AS\\sal-service",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\bower_components",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\node_modules\\sass-loader",
+			"*.java",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\app",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\app\\styles\\sass",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\app",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\app\\styles",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\portal",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\app\\styles",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\app",
+			"",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\test",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\app",
+			"",
+			"*.java",
+			"",
+			"*.js",
+			"-*.js.map",
+			"-\\**\\dist\\*.*",
+			"-/**/dist/",
+			"-build/",
+			"",
+			"\n",
+			"*.java",
+			"",
+			"*.java",
+			"",
+			"D:\\MyWork\\Git\\AS\\sal-quicktake\\app",
+			"",
+			"-*min*.js,chartweb/*,-chartweb/src/main/webapp/report/",
+			"-*min*.js,chartweb/*",
+			"chartweb,-*min*.js",
+			"-*min*.js",
+			"-*min*.js,-*\\target\\*",
+			"-*min*.js",
+			"-*min*.js,-/chartweb/target/",
+			"-*min*.js,-\\chartweb\\target\\*.*",
+			"-*min*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"masters",
+			"CHECK_INTERVAL",
+			"Timeout waiting on iframe socket",
+			"xdomain (http://pssaldevap8001.morningstar.com): Timeout waiting on iframe socket",
+			"appInit",
+			"appInitProvider",
+			"getFrame",
+			"iframe",
+			"getFrame",
+			"iframe",
+			"slaves",
+			"handler",
+			"listen",
+			"initSlave",
+			"masters",
+			"addMasters",
+			"parseUrl",
+			"addMasters",
+			"COMPAT_VERSION",
+			"startPostMessage",
+			"xdomain",
+			"xdomain(",
+			"addMasters",
+			"master",
+			"data-master",
+			"xdomain",
+			"beginPhase",
+			"inprog",
+			"innerText",
+			"getText",
+			".textContent",
+			"text",
+			"function text",
+			"function",
+			"text:",
+			"'text'",
+			"\"text\"",
+			"text",
+			"titl",
+			"font",
+			"document",
+			"dev.datamanager.morningstar.com",
+			"real.time.index.url",
+			"REAL_TIME_INDEX_URL",
+			"indexData",
+			"index",
+			"web",
+			"conf.d",
+			"useXDomain",
+			"X-Requested-With",
+			"withCre",
+			"If-Modified-Since",
+			"$httpBackend",
+			"CONTENT_TYPE_APPLICATION_JSON",
+			"$HttpBackend",
+			".method",
+			"'get'",
+			"'options'",
+			"\"options\"",
+			"\"options",
+			"options",
+			"Access-Control-Allow-Origin",
+			"applyToT",
+			"applytoT",
+			"/* 16",
+			"/* 6",
+			"d3.svg.line",
+			"d3.scale",
+			"webpack",
+			"sal-quick",
+			"Git",
+			"sass",
+			"achen2",
+			"QUALITATIVE_SECURITIES_URL",
+			"qualitative.securities.url",
+			"JSON_C",
+			"JSONP_C",
+			"JSONP",
+			"jsonp_Call",
+			"jsonp_Ca",
+			"jsonp",
+			"JSONP",
+			"support",
+			"withC",
+			"with",
+			"sendReq",
+			"$HttpBackend",
+			"jsonpReq",
+			"JSON_CALLBACK",
+			"q_for_quant",
+			"flipTip",
+			"right",
+			"index.scss",
+			".right {",
+			".right",
+			"DOENVROOT",
+			"Ruby",
+			"ruby",
+			"rubu",
+			"flipTip",
+			"scale",
+			"complexity",
+			"cssmin",
+			"css",
+			"webpack",
+			"text-align",
+			"setProportion",
+			"SALModule.windowResize",
+			"tickFormat",
+			"webpackcfg",
+			"pssaldevap8001",
+			"window",
+			"\"version\": \"0.0.0\"",
+			"pssaldevap8001",
+			"\\",
+			"bisectLeft",
+			"bisect",
+			"threshold",
+			"raw-loader",
+			"!raw-loader!",
+			"prepareCanvas",
+			"d3",
+			"self",
+			"this",
+			"loadTab",
+			"stackeddata",
+			"d3.layout.stack",
+			"d3.svg.area"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"",
+			"\"",
+			"\"type\":",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "greeter.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"extensions":
+							[
+								"ts"
+							],
+							"sublime_auto_complete": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "greeter.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "greeter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 239.0
+	},
+	"output.find_results":
+	{
+		"height": 120.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 355.0
+	},
+	"pinned_build_system": "",
+	"project": "typescript.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"sal-quicktake\\bower_components\\angular\\angular.js"
+			],
+			[
+				"setup",
+				"sal-quicktake\\env-configure\\setup-apache.sh"
+			],
+			[
+				"post-install.sh",
+				"sal-quicktake\\post-install.sh"
+			],
+			[
+				"grunt",
+				"sal-quicktake\\gruntfile.js"
+			],
+			[
+				"proxy",
+				"sal-quicktake\\app\\proxy.html"
+			],
+			[
+				"angu",
+				"sal-quicktake\\bower_components\\angular\\angular.js"
+			],
+			[
+				"app.js",
+				"sal-quicktake\\app\\scripts\\app.js"
+			],
+			[
+				"xdomain",
+				"sal-quicktake\\bower_components\\xdomain\\dist\\xdomain.js"
+			],
+			[
+				"entr",
+				"sal-quicktake\\app\\scripts\\entry.js"
+			],
+			[
+				"bower",
+				"sal-quicktake\\bower.json"
+			],
+			[
+				"pack",
+				"sal-quicktake\\package.json"
+			],
+			[
+				"route",
+				"sal-service\\conf\\routes"
+			],
+			[
+				"jquery",
+				"sal-quicktake\\bower_components\\jquery\\dist\\jquery.js"
+			],
+			[
+				"index.html",
+				"sal-quicktake\\app\\index.html"
+			],
+			[
+				"sigsecurity",
+				"sal-quicktake\\app\\scripts\\templates\\sigSecurity.html"
+			],
+			[
+				"dev",
+				"sal-service\\conf\\devcloud.conf"
+			],
+			[
+				"qa.conf",
+				"sal-service\\conf\\qa.conf"
+			],
+			[
+				"appli",
+				"sal-service\\conf\\application.conf"
+			],
+			[
+				"sal-ser",
+				"sal-quicktake\\env-configure\\conf\\sal-service-qa-b37.conf"
+			],
+			[
+				"salbase",
+				"sal-service\\app\\controllers\\SALBaseController.java"
+			],
+			[
+				"stg.con",
+				"sal-service\\conf\\stg.conf"
+			],
+			[
+				"gmbcontroller",
+				"sal-service\\app\\controllers\\GMBController.java"
+			],
+			[
+				"_core",
+				"sal-quicktake\\app\\styles\\sass\\_core.scss"
+			],
+			[
+				"sal-serv",
+				"sal-quicktake\\env-configure\\conf\\sal-service-stg-b37.conf"
+			],
+			[
+				"angul",
+				"sal-quicktake\\bower_components\\angular\\angular.js"
+			],
+			[
+				"rout",
+				"sal-service\\conf\\routes"
+			],
+			[
+				"build.",
+				"sal-service\\build.sbt"
+			],
+			[
+				"angular",
+				"sal-quicktake\\bower_components\\angular\\angular.js"
+			],
+			[
+				"app.j",
+				"sal-quicktake\\app\\scripts\\app.js"
+			],
+			[
+				"app",
+				"sal-quicktake\\dist\\app.js"
+			],
+			[
+				"web",
+				"sal-quicktake\\webpack.config.js"
+			],
+			[
+				"signew",
+				"sal-quicktake\\app\\scripts\\directives\\sigNews.js"
+			],
+			[
+				"signews",
+				"sal-quicktake\\app\\scripts\\directives\\sigNews.js"
+			],
+			[
+				"app.",
+				"sal-quicktake\\dist\\app.js"
+			],
+			[
+				"d3.",
+				"sal-quicktake\\bower_components\\d3\\d3.js"
+			],
+			[
+				"moathi",
+				"sal-quicktake\\app\\scripts\\libs\\moatHistoryChart.js"
+			],
+			[
+				"salbaseservice",
+				"sal-service\\app\\service\\base\\SALBaseService.java"
+			],
+			[
+				"securityinfoservice",
+				"sal-service\\app\\service\\dataapi\\SecurityInfoServiceImpl.java"
+			],
+			[
+				"datacontroller",
+				"sal-service\\app\\controllers\\DataController.java"
+			],
+			[
+				"index",
+				"sal-quicktake\\app\\index.html"
+			],
+			[
+				"foundat",
+				"sal-quicktake\\bower_components\\foundation\\css\\foundation.css"
+			],
+			[
+				"arrow",
+				"sal-quicktake\\app\\scripts\\directives\\arrowTooltip.js"
+			],
+			[
+				"valu",
+				"sal-quicktake\\app\\scripts\\libs\\valuationCapsule.js"
+			],
+			[
+				"create_rpm",
+				"sal-service\\create_rpm.sh"
+			],
+			[
+				"valuationcapsule",
+				"sal-quicktake\\app\\scripts\\libs\\valuationCapsule.js"
+			],
+			[
+				"minquotechart",
+				"sal-quicktake\\app\\scripts\\directives\\miniQuoteChart.js"
+			],
+			[
+				"arr",
+				"sal-quicktake\\app\\scripts\\directives\\arrowTooltip.js"
+			],
+			[
+				"miniquotechart",
+				"sal-quicktake\\app\\scripts\\libs\\miniQuoteChart.js"
+			],
+			[
+				"d3",
+				"sal-quicktake\\bower_components\\d3\\d3.js"
+			],
+			[
+				"valuation",
+				"sal-quicktake\\app\\scripts\\libs\\valuationCapsule.js"
+			],
+			[
+				"application",
+				"sal-service\\conf\\application.conf"
+			],
+			[
+				"sign",
+				"sal-quicktake\\app\\scripts\\templates\\sigNews.html"
+			],
+			[
+				"d",
+				"sal-quicktake\\bower_components\\d3\\d3.js"
+			],
+			[
+				"angularmo",
+				"sal-quicktake\\bower_components\\angular-mocks\\angular-mocks.js"
+			],
+			[
+				"valh",
+				"sal-quicktake\\app\\scripts\\vendors\\valhis.js"
+			],
+			[
+				"jasmine.js",
+				"sal-quicktake\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js"
+			],
+			[
+				"val",
+				"sal-quicktake\\app\\scripts\\vendors\\valhis.js"
+			],
+			[
+				"sigquote",
+				"sal-quicktake\\app\\scripts\\directives\\sigQuote.js"
+			],
+			[
+				"index.",
+				"sal-quicktake\\app\\index.html"
+			],
+			[
+				"gruntf",
+				"sal-quicktake\\gruntfile.js"
+			],
+			[
+				"entry",
+				"sal-quicktake\\app\\scripts\\entry.js"
+			],
+			[
+				"webpac",
+				"sal-quicktake\\webpack.config.js"
+			],
+			[
+				"realtimequotedata",
+				"sal-service\\app\\models\\realtimequote\\RealTimeQuoteData.java"
+			],
+			[
+				"minichartrealtimedataservice",
+				"sal-service\\app\\service\\realtimechart\\MiniChartRealTimeDataServiceImpl.java"
+			],
+			[
+				"quotedataservice",
+				"sal-service\\app\\service\\realtimequote\\QuoteDataServiceImpl.java"
+			],
+			[
+				"minichartrealtimedata",
+				"sal-service\\app\\service\\realtimechart\\MiniChartRealTimeDataServiceImpl.java"
+			],
+			[
+				"_forms",
+				"sal-quicktake\\bower_components\\foundation\\scss\\foundation\\components\\_forms.scss"
+			],
+			[
+				"founda",
+				"sal-quicktake\\bower_components\\foundation\\css\\foundation.css"
+			],
+			[
+				"miniquote",
+				"sal-quicktake\\app\\scripts\\templates\\miniQuoteChart.html"
+			],
+			[
+				"karma",
+				"sal-quicktake\\karma.conf.js"
+			],
+			[
+				"sigs",
+				"sal-quicktake\\app\\scripts\\directives\\sigSecurity.js"
+			],
+			[
+				"miniquotechart.js",
+				"sal-quicktake\\app\\scripts\\libs\\miniQuoteChart.js"
+			],
+			[
+				"moathis",
+				"sal-quicktake\\test\\spec\\libs\\moatHistoryChartTest.js"
+			],
+			[
+				"worldma",
+				"sal-quicktake\\app\\scripts\\factories\\worldMapService.js"
+			],
+			[
+				"miniquo",
+				"sal-quicktake\\app\\scripts\\libs\\miniQuoteChart.js"
+			],
+			[
+				"d3.js",
+				"sal-quicktake\\bower_components\\d3\\d3.js"
+			],
+			[
+				"world-kaplan.json",
+				"sal-quicktake\\app\\world-kaplan.json"
+			],
+			[
+				"create",
+				"D:\\MyWork\\Git\\AS\\sal-service\\create_rpm.sh"
+			],
+			[
+				"buid",
+				"sal-service\\build.sbt"
+			],
+			[
+				"bui",
+				"sal-service\\build.sbt"
+			],
+			[
+				"build",
+				"sal-service\\build.sbt"
+			],
+			[
+				"moathist",
+				"sal-quicktake\\test\\spec\\libs\\moatHistoryChartTest.js"
+			],
+			[
+				"moath",
+				"sal-quicktake\\app\\scripts\\directives\\moatHistoryChart.js"
+			],
+			[
+				"miniq",
+				"sal-quicktake\\app\\scripts\\directives\\miniQuoteChart.js"
+			],
+			[
+				"webpa",
+				"sal-quicktake\\webpack.config.js"
+			],
+			[
+				"moathistory",
+				"sal-quicktake\\app\\scripts\\templates\\moatHistoryChart.html"
+			],
+			[
+				"jasmine",
+				"sal-quicktake\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js"
+			],
+			[
+				"webp",
+				"sal-quicktake\\webpack.config.js"
+			],
+			[
+				"moathisto",
+				"sal-quicktake\\app\\scripts\\libs\\moatHistoryChart.js"
+			],
+			[
+				"mini",
+				"sal-quicktake\\app\\scripts\\libs\\miniQuoteChart.js"
+			],
+			[
+				"moat",
+				"sal-quicktake\\app\\scripts\\templates\\moatHistoryChart.html"
+			],
+			[
+				"foun",
+				"sal-quicktake\\bower_components\\foundation\\css\\foundation.css"
+			],
+			[
+				"_co",
+				"sal-quicktake\\app\\styles\\sass\\_core.scss"
+			],
+			[
+				"valhi",
+				"sal-quicktake\\app\\scripts\\vendors\\valhis.js"
+			],
+			[
+				"grun",
+				"sal-quicktake\\gruntfile.js"
+			],
+			[
+				"arro",
+				"sal-quicktake\\app\\scripts\\directives\\arrowTooltip.js"
+			],
+			[
+				"sal",
+				"sal-quicktake\\env-configure\\conf\\sal-quicktake-gzip-rewrite.conf"
+			],
+			[
+				"jquer",
+				"sal-quicktake\\bower_components\\jquery\\dist\\jquery.js"
+			],
+			[
+				"stock",
+				"sal-quicktake\\app\\stock.json"
+			],
+			[
+				"contro",
+				"sal-quicktake\\portal\\scripts\\controller.js"
+			],
+			[
+				"jquery.js",
+				"sal-quicktake\\bower_components\\jquery\\dist\\jquery.js"
+			],
+			[
+				"porta",
+				"sal-quicktake\\dist\\portal.js"
+			],
+			[
+				"output",
+				"sal-quicktake\\app\\scripts\\filters\\outputFilter.js"
+			],
+			[
+				"main",
+				"sal-quicktake\\portal\\scripts\\main.js"
+			],
+			[
+				"found",
+				"sal-quicktake\\bower_components\\foundation\\css\\foundation.css"
+			],
+			[
+				"post",
+				"sal-service\\post-install.sh"
+			],
+			[
+				"autocom",
+				"sal-quicktake\\bower_components\\allmighty-autocomplete\\script\\autocomplete.js"
+			],
+			[
+				"auto",
+				"sal-quicktake\\bower_components\\allmighty-autocomplete\\script\\autocomplete.js"
+			],
+			[
+				"port",
+				"sal-quicktake\\dist\\portal.js"
+			],
+			[
+				"main.js",
+				"sal-quicktake\\portal\\scripts\\main.js"
+			],
+			[
+				"por",
+				"sal-quicktake\\dist\\portal.js"
+			],
+			[
+				"sigp",
+				"sal-quicktake\\portal\\sigPortal.js"
+			],
+			[
+				"cont",
+				"sal-quicktake\\portal\\scripts\\controller.js"
+			],
+			[
+				"controller",
+				"sal-quicktake\\portal\\scripts\\controller.js"
+			],
+			[
+				"sona",
+				"sal-quicktake\\sonar-project.properties"
+			],
+			[
+				"sigb",
+				"sal-quicktake\\app\\scripts\\directives\\sigBand.js"
+			],
+			[
+				"con",
+				"sal-quicktake\\portal\\scripts\\controller.js"
+			],
+			[
+				"autocomp",
+				"sal-quicktake\\bower_components\\allmighty-autocomplete\\script\\autocomplete.js"
+			],
+			[
+				"realtime",
+				"sal-service\\test\\service\\realtime\\RealTimeServiceImplITTest.java"
+			],
+			[
+				"rou",
+				"sal-service\\conf\\routes"
+			],
+			[
+				"norma",
+				"sal-quicktake\\bower_components\\foundation\\scss\\normalize.scss"
+			],
+			[
+				"_c",
+				"sal-quicktake\\app\\styles\\sass\\_core.scss"
+			],
+			[
+				"foundation",
+				"sal-quicktake\\bower_components\\foundation\\scss\\foundation.scss"
+			],
+			[
+				"g",
+				"sal-quicktake\\gruntfile.js"
+			],
+			[
+				"foundataion",
+				"sal-quicktake\\bower_components\\foundation\\css\\foundation.css"
+			],
+			[
+				"sigmornin",
+				"sal-quicktake\\app\\scripts\\directives\\sigMorningstarTakes.js"
+			],
+			[
+				"morningstart",
+				"sal-quicktake\\app\\scripts\\templates\\sigMorningstarTakes.html"
+			],
+			[
+				"ka",
+				"sal-quicktake\\karma.conf.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\MyWork\\Git\\AS\\sal-quikr.sublime-project"
+			],
+			[
+				"an",
+				"D:\\MyWork\\angularjs\\angularjs.sublime-project"
+			],
+			[
+				"qt",
+				"D:\\MyWork\\Git\\AS\\qt\\qt.sublime-project"
+			],
+			[
+				"ang",
+				"D:\\MyWork\\angularjs\\angularjs.sublime-project"
+			],
+			[
+				"a",
+				"D:\\MyWork\\angularjs\\angularjs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 642.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
